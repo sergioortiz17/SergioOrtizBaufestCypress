@@ -1,5 +1,5 @@
 # SergioOrtizBaufestCypress
-Linux Ubuntu 
+
 
 Clona el repo 
 
@@ -11,7 +11,9 @@ Dentro del proyecto abre la consola e instala las dependencias del proyecto con
 
 Ejecuta Cypress 
 
-  	``` ./node_modules/.bin/cypress open ```
+	``` cypress open ```
+
+  	``` ./node_modules/.bin/cypress open ```   (OJO asi en Linux Ubuntu si no anda con el primero)
  
 Se abre la interfaz grafica
 
